@@ -1,6 +1,6 @@
 # Hi, I'm a Hobbyist Developer 👋
 
-I'm an independent learner and tech enthusiast. I'm not a professional developer(BG:Applied Statistics), but I genuinely enjoy exploring technology, building things, and learning through hands-on projects.
+I'm an independent learner and tech enthusiast. I'm not a professional developer (BG: Applied Statistics), but I genuinely enjoy exploring technology, building things, and learning through hands-on projects.
 
 ### 💡 What I'm Interested In
 
@@ -8,14 +8,13 @@ I'm an independent learner and tech enthusiast. I'm not a professional developer
 - **Artificial Intelligence** — Learning about AI, machine learning, and practical AI applications.
 - **Software & Web Development** — Building small tools, applications, and websites to turn ideas into something useful.
 
-### Always Learning, Always Exploring
+· An electricity trader, working on electricity trading and price forecasting research
+· Currently building my very first website, MoyuOffice — learning and exploring web development along the way.
+· An amateur cosplayer who enjoys bringing characters to life.
+· An absolute hamster enthusiast! Proud human of Bacon, my female Syrian hamster who's a little over a year old. Always happy to meet fellow hamster lovers and exchange stories about our little furry friends!
+· Always open to connecting with experienced developers, exchanging ideas, learning new things, and collaborating on interesting projects.
+· Feel free to reach me at brilliant.ran@outlook.com
 
-I'm still learning and experimenting, and there's a lot more I'd love to discover. I'm always happy to connect with you, exchange ideas, learn from others, and collaborate on interesting projects. If you have advice or suggestions, I'd love to hear from you!
-
-### 🐹 A Little Something About Me
-
-Besides technology, I'm really crazy about hamsters!
-If you're a fellow hamster lover, I'd be more than happy to chat about our little furry friends and share stories about them.
 
 **Thanks for stopping by. Happy coding!**
 
