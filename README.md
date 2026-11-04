@@ -5,27 +5,22 @@ I'm an independent learner and tech enthusiast. I'm not a professional developer
 ### 💡 What I'm Interested In
 
 - **Data Forecasting & Analytics** — Exploring data analysis, predictive modeling, and forecasting techniques.
-- **Artificial Intelligence** — Learning about AI, machine learning, and practical AI applications.
 - **Software & Web Development** — Building small tools, applications, and websites to turn ideas into something useful.
-
-### 🌱 Always Learning, Always Exploring
-
-I'm still learning and experimenting, and there's a lot more I'd love to discover.
-
-I'm always happy to connect with experienced developers, exchange ideas, learn from others, and collaborate on interesting projects. If you have advice or suggestions, I'd love to hear from you!
+- **Language Learning** — Currently English and Japanese.
 
 ### 👨‍💻 A Little About Me
 
-- ⚡ An electricity trader, working on electricity trading and forecasting research — [Australian NEM Market Research](https://github.com/atabey404/AUS-NEM-SA1) · [Sichuan Wind Forecast Studio](https://github.com/atabey404/wind-forecast-studio)
+- ⚡ An electricity trader, working on electricity trading and forecasting research — [Australian NEM Market Research](https://github.com/atabey404/AUS-NEM-SA1) · [Wind Forecast Studio](https://github.com/atabey404/wind-forecast-studio)
 - 🛠️ Currently building my very first website, [MoyuOffice](https://github.com/atabey404/moyuoffice) — learning and exploring web development along the way.
-- 🎭 An amateur cosplayer who enjoys bringing characters to life.
+- 🎭 An amateur cosplayer.
 - 🐹 An absolute hamster enthusiast! Proud human of Bacon, my female Syrian hamster who's a little over a year old. Want to see my little girl? Find her on [Instagram](https://www.instagram.com/can._.ran/)!
-- 🙌 Always open to interesting collaborations, exchanging ideas, and connecting with new friends.
+- 🙌 I'm always happy to connect with experienced developers, exchange ideas, learn from others, and collaborate on interesting projects!
 
 ### 📬 Contact Me
 
 - Email: [brilliant.ran@outlook.com](mailto:brilliant.ran@outlook.com)
 - Instagram: [@can._.ran](https://www.instagram.com/can._.ran/)
+- Twitter: [Ran404](https://x.com/atabey404)
 
 **Thanks for stopping by. Happy coding!**
 
