@@ -8,22 +8,6 @@ I'm an independent learner and tech enthusiast. I'm not a professional developer
 - **Artificial Intelligence** — Learning about AI, machine learning, and practical AI applications.
 - **Software & Web Development** — Building small tools, applications, and websites to turn ideas into something useful.
 
-# Hi, I'm a Hobbyist Developer 👋
-
-I'm an independent learner and tech enthusiast. I'm not a professional developer, but I genuinely enjoy exploring technology, building things, and learning through hands-on projects.
-
-### 🎓 Academic Background
-
-- **Major:** Applied Statistics
-
-My academic background has given me an interest in statistics, data analysis, and quantitative methods, which also inspire many of my personal projects.
-
-### 💡 What I'm Interested In
-
-- **Data Forecasting & Analytics** — Exploring data analysis, predictive modeling, and forecasting techniques.
-- **Artificial Intelligence** — Learning about AI, machine learning, and practical AI applications.
-- **Software & Web Development** — Building small tools, applications, and websites to turn ideas into something useful.
-
 ### 🌱 Always Learning, Always Exploring
 
 I'm still learning and experimenting, and there's a lot more I'd love to discover.
