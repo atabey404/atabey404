@@ -1,12 +1,6 @@
 # Hi, I'm a Hobbyist Developer 👋
 
-I'm an independent learner and tech enthusiast. I'm not a professional developer (BG: Applied Statistics), but I genuinely enjoy exploring technology, building things, and learning through hands-on projects.
-
-### 💡 What I'm Interested In
-
-- **Data Forecasting & Analytics** — Exploring data analysis, predictive modeling, and forecasting techniques.
-- **Software & Web Development** — Building small tools, applications, and websites to turn ideas into something useful.
-- **Language Learning** — Currently English and Japanese.
+I'm an independent learner with a background in Applied Statistics. I enjoy exploring data forecasting, software and web development, and I'm also learning English and Japanese. Always curious, always learning!
 
 ### 👨‍💻 A Little About Me
 
