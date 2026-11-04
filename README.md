@@ -14,7 +14,7 @@ I'm an independent learner with a background in Applied Statistics. I enjoy expl
 
 - Email: [brilliant.ran@outlook.com](mailto:brilliant.ran@outlook.com)
 - Instagram: [@can._.ran](https://www.instagram.com/can._.ran/)
-- Twitter: [Ran404](https://x.com/atabey404)
+- Twitter: [@atabey404](https://x.com/atabey404)
 
 **Thanks for stopping by. Happy coding!**
 
