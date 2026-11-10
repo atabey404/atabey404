@@ -4,7 +4,7 @@ I'm an independent learner with a background in Applied Statistics. I enjoy expl
 
 ### 👨‍💻 A Little About Me
 
-- ⚡ An electricity trader, working on electricity trading and forecasting research — [Wind Forecast Studio](https://github.com/atabey404/wind-forecast-studio) · [Australian NEM Market Research](https://github.com/atabey404/AUS-NEM-SA1)
+- ⚡ An electricity trader, working on electricity trading and forecasting research — [Wind Forecast Studio](https://github.com/atabey404/wind-forecast-studio) · [Australian NEM Market Research](https://github.com/atabey404/AUS-NEM-SA1) · [Japan JEPX Price Forecast](https://github.com/atabey404/JEPX-Price-Forecasting)
 - 🛠️ Currently building my very first website, [MoyuOffice](https://github.com/atabey404/moyuoffice) — learning and exploring web development along the way.
 - 🎭 An amateur cosplayer.
 - 🐹 An absolute hamster enthusiast! Want to see my little girl? Find her on [Instagram](https://www.instagram.com/can._.ran/)!
